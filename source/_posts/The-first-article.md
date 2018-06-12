@@ -1,5 +1,5 @@
 ---
-title: my firt article
+title: my first article
 date: 2018-03-14 11:00:00
 comments: true
 tags: hero blog
