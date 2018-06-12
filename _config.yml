@@ -83,4 +83,6 @@ theme: next
 deploy:
 - type: git
   repository: git@github.com:yudonglinyy/lydweb.git
+  name: yudonglinyy
+  email: 1044738303@qq.com
   branch: master
